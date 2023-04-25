@@ -5,6 +5,8 @@ BASIC
 --
 It is a Telegram bot for the <a href= "https://vk.com/thecommonwealth2020">Commonwealth<a> community
 
+Bot username: @BOT_VLASOFF_BOT
+
 
 FUNCTION
 --
